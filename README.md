@@ -1,4 +1,6 @@
-This repository contains a custom implementation of univariate linear regression. The objective is to gain a deeper understanding of the fundamentals of linear regression and gradient descent optimization. This algorithm predicts the profit when a population shares a bike in 10,000s which makes inferes how univariate linear regression works along with gradient descent.
+In this endeavor, we delve deep into the fundamental concepts underlying predictive analytics by developing a tailored solution for profit prediction in bike-sharing services.
+
+This project centers around understanding the intricacies of univariate linear regression, a foundational technique in machine learning and statistical modeling. By focusing on a single independent variable—the population size sharing bikes in units of 10,000s—we aim to elucidate the inner workings of linear regression in predicting profit.
 
 ## Load the Data and Libraries:
 The initial step involves loading the dataset and necessary Python libraries, including NumPy for numerical computation and Seaborn for data visualization.
